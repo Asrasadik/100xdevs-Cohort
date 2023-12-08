@@ -12,3 +12,5 @@ and gives error for line 2
 ![Alt text](image.jpeg)
 
 Browser understands only html/css/js nut not technically, because there are some ways where we can run c, c++ langage in broswer but 90% of the time we use javascript
+
+what are the languages that are better than js 
